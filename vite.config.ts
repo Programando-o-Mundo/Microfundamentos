@@ -31,7 +31,7 @@ export default defineConfig({
     cssCodeSplit: true,
     sourcemap: false,
     rollupOptions: {
-      input: 'src/index.html',
+      input: 'index.html',
     },
   },
 })
